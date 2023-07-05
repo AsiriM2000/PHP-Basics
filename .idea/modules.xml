@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Start/01-Start.iml" filepath="$PROJECT_DIR$/01-Start/01-Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-PHPCaseSensitiv/02-PHPCaseSensitiv.iml" filepath="$PROJECT_DIR$/02-PHPCaseSensitiv/02-PHPCaseSensitiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-PHPVariables/03-PHPVariables.iml" filepath="$PROJECT_DIR$/03-PHPVariables/03-PHPVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-PHPDataTypes/04-PHPDataTypes.iml" filepath="$PROJECT_DIR$/04-PHPDataTypes/04-PHPDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Question01/05-Question01.iml" filepath="$PROJECT_DIR$/05-Question01/05-Question01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Question02/06-Question02.iml" filepath="$PROJECT_DIR$/06-Question02/06-Question02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-PHPConditionalStatements/07-PHPConditionalStatements.iml" filepath="$PROJECT_DIR$/07-PHPConditionalStatements/07-PHPConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Functions/08-Functions.iml" filepath="$PROJECT_DIR$/08-Functions/08-Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-PHPForm/09-PHPForm.iml" filepath="$PROJECT_DIR$/09-PHPForm/09-PHPForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-PHPFormValdation/10-PHPFormValdation.iml" filepath="$PROJECT_DIR$/10-PHPFormValdation/10-PHPFormValdation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Start-Php.iml" filepath="$PROJECT_DIR$/Start-Php.iml" />
+    </modules>
+  </component>
+</project>
