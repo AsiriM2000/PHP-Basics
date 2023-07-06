@@ -41,6 +41,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24386252" />
@@ -76,7 +77,7 @@
       <updated>1688539446315</updated>
       <workItem from="1688539447554" duration="13925000" />
       <workItem from="1688614307268" duration="3067000" />
-      <workItem from="1688619491759" duration="5135000" />
+      <workItem from="1688619491759" duration="6517000" />
     </task>
     <servers />
   </component>
