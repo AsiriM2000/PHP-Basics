@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/08-Functions/08-Functions.iml" filepath="$PROJECT_DIR$/08-Functions/08-Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-PHPForm/09-PHPForm.iml" filepath="$PROJECT_DIR$/09-PHPForm/09-PHPForm.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-PHPFormValdation/10-PHPFormValdation.iml" filepath="$PROJECT_DIR$/10-PHPFormValdation/10-PHPFormValdation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-PHPOOP/11-PHPOOP.iml" filepath="$PROJECT_DIR$/11-PHPOOP/11-PHPOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Start-Php.iml" filepath="$PROJECT_DIR$/Start-Php.iml" />
     </modules>
   </component>
