@@ -48,8 +48,8 @@
                            <td>'.$mobile.'</td>
                            <td>'.$salary.'</td>
                            <td>
-                                <button type="button" class="btn btn-warning"><a class="text-light" href="update.php?updateEmail='.$email.'">Update</a></button>
-                                <button type="button" class="btn btn-danger"><a class="text-light" href="delete.php?deleteEmail='.$email.'">Delete</a></button>
+                                <button type="button" class="btn btn-warning"><a style="text-decoration: none" class="text-dark" href="update.php?updateEmail='.$email.'">Update</a></button>
+                                <button type="button" class="btn btn-danger"><a style="text-decoration: none" class="text-dark" href="delete.php?deleteEmail='.$email.'">Delete</a></button>
                            </td>
                        </tr>';
             }

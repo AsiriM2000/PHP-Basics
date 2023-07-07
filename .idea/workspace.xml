@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34819a69-470a-4f1e-bee3-70c8ae92efe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-PHPConditionalStatements/iindex.php" beforeDir="false" afterPath="$PROJECT_DIR$/07-PHPConditionalStatements/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-PHPCrudApp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/14-PHPCrudApp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-PHPCrudApp/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/14-PHPCrudApp/view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +83,7 @@
       <workItem from="1688614307268" duration="3067000" />
       <workItem from="1688619491759" duration="15776000" />
       <workItem from="1688662239742" duration="642000" />
-      <workItem from="1688697806197" duration="11101000" />
+      <workItem from="1688697806197" duration="13502000" />
     </task>
     <servers />
   </component>
