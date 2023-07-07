@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/10-PHPFormValdation/10-PHPFormValdation.iml" filepath="$PROJECT_DIR$/10-PHPFormValdation/10-PHPFormValdation.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-PHPOOP/11-PHPOOP.iml" filepath="$PROJECT_DIR$/11-PHPOOP/11-PHPOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-PHPMySQLDatabase/12-PHPMySQLDatabase.iml" filepath="$PROJECT_DIR$/12-PHPMySQLDatabase/12-PHPMySQLDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-PHPFileUpload/13-PHPFileUpload.iml" filepath="$PROJECT_DIR$/13-PHPFileUpload/13-PHPFileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-PHPCrudApp/14-PHPCrudApp.iml" filepath="$PROJECT_DIR$/14-PHPCrudApp/14-PHPCrudApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Start-Php.iml" filepath="$PROJECT_DIR$/Start-Php.iml" />
     </modules>
   </component>
